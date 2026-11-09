@@ -1,6 +1,10 @@
 # RepairConnect
 
-Accessible multi-shop repair network connecting customers, mechanics, shop admins, and parts coordinators.
+### A Network of Repair Shops
+
+**One connected platform. Multiple repair shops. Seamless repair management.**
+
+RepairConnect is an accessible, multi-tenant repair management platform connecting customers, mechanics, parts coordinators, and repair businesses through a unified service network.
 
 Unauthenticated visitors land on the public marketing site (`/`). Authenticated users open role portals under `/app/*` after sign-in.
 
